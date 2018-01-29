@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshuayabut/equihashverify"
+    "url": "https://github.com/sailor32/equihashverify-zero"
   },
   "keywords": [
     "zclassic"
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshuayabut/equihashverify/issues"
+    "url": "https://github.com/sailor32/equihashverify-zero/issues"
   },
-  "homepage": "https://github.com/joshuayabut/equihashverify",
+  "homepage": "https://github.com/sailor32/equihashverify-zero",
   "dependencies": {
     "bindings": "*",
     "node-gyp": "*",
